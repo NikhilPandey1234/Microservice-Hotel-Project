@@ -1,0 +1,8 @@
+
+¤
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(ØØ«Üÿÿÿÿÿ8›ş±¼õ1J$2adb3fed-e436-4395-b04d-c8906523c443
+¢
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "userDTO".(‹İù©8œş±¼õ1J$0dd758fa-b623-40d5-93b9-5314405f9cbb
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÂÃÂùÿÿÿÿ8ş±¼õ1J$0814c2bf-e906-40c4-acfe-765a0a3c1d57
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ş±¼õ1J$c1553c31-9186-4b29-a6db-04688a303deb

@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§„ª¦8¦”ÇÝú1J$db5ba334-142c-426d-8bd1-30f99babe0fc
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8©”ÇÝú1J$b09ce8d1-d1bd-4e09-8b50-9130311ca1f8
+}	java:S125;"<This block of commented-out lines of code should be removed.(½·98îØ˜Þú1J$dc034ee7-ba5b-4a62-a5da-c2d945fc34a3
+„
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(ŠÝ²²8îØ˜Þú1J$b781e7ef-72e5-4210-970c-09aa326443ad
+{
+java:S1128"3Remove this unused import 'com.userSer.modal.User'.(û²–§ûÿÿÿÿ8ƒçÅÞú1J$77ab2c63-4fa2-4efe-ac21-7c9d3446d634
+Ÿ
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ8„çÅÞú1J$f2b1e859-f3e4-4ce3-9c05-afb938780563

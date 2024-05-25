@@ -1,0 +1,25 @@
+
+¡
+java:S1192;"^Define a constant instead of duplicating this literal "User Not Found With This id: " 3 times.(»î¬£8½¡Äö1J$522c4565-3dfb-47bc-b611-c07655dedde9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïãÿØ8À¡Äö1J$705e2eac-b108-4726-b271-74dfa34445ad
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8Î¡Äö1J$58c22ff8-28d8-41e3-aa84-74ea157f1ccb
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8Î¡Äö1J$7a642b45-cfc6-41f9-a116-0b24a0c7e3bb
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8Î¡Äö1J$21874781-7c20-49d0-8ee0-9e486c79d50e
+…
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8Î¡Äö1J$944ffd43-f938-4181-829e-35c5759eeb06
+…
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8Î¡Äö1J$5cabb15d-d034-479a-b71e-a8f212e2f69e
+•
+java:S6204G"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ø¡Äö1J$072b9bf6-8e16-4bf6-9553-0538cf253ef0
+•
+java:S6204V"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8Ü¡Äö1J$68c51b49-e310-4a50-af69-c796abd59241
+ƒ	java:S125Q"<This block of commented-out lines of code should be removed.(‘¬Æ„ùÿÿÿÿ8Õ‡Æö1J$def55265-7379-4f48-b3f7-1d3c9e7bdaa9
+ƒ	java:S125S"<This block of commented-out lines of code should be removed.(¸ƒşœûÿÿÿÿ8à¨Æö1J$c4b0732c-7371-489c-a4f6-d5801f810881
+~	java:S125X"<This block of commented-out lines of code should be removed.(¸¸ «8ß¡Äö1J$89f3e51c-77db-46b5-b192-e8f3e6e7f37f
+Œ
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8òîÛö1J$18654274-5a7c-4d32-889d-7d92e2f87772
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8òîÛö1J$0561e744-3971-4265-a2db-c12597d39b36
